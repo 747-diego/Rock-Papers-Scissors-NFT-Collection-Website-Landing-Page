@@ -1,13 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 
-// import img1 from '../assets/Nfts/bighead.svg';
-// import img2 from '../assets/Nfts/bighead-1.svg';
-// import img3 from '../assets/Nfts/bighead-2.svg';
-// import img4 from '../assets/Nfts/bighead-3.svg';
-// import img5 from '../assets/Nfts/bighead-4.svg';
-// import img6 from '../assets/Nfts/bighead-5.svg';
-
 import img1 from '../assets/Nfts/ticket-1.png';
 import img2 from '../assets/Nfts/ticket-2.jpeg';
 import img3 from '../assets/Nfts/ticket-3.jpeg';
@@ -147,15 +140,15 @@ const Banner = () => {
   return (
     <Section>
         <ImgContainer>
-            <img width={500} height={400}  src={img1} alt="The Weirdos" />
-            <img width={500} height={400}  src={img2} alt="The Weirdos" />
-            <img width={500} height={400}  src={img3} alt="The Weirdos" />
-            <img width={500} height={400}  src={img4} alt="The Weirdos" />
-            <img width={500} height={400}  src={img5} alt="The Weirdos" />
-            <img width={500} height={400}  src={img6} alt="The Weirdos" />
+            <img width={500} height={400}  src={img1} alt="RPS" />
+            <img width={500} height={400}  src={img2} alt="RPS" />
+            <img width={500} height={400}  src={img3} alt="RPS" />
+            <img width={500} height={400}  src={img4} alt="RPS" />
+            <img width={500} height={400}  src={img5} alt="RPS" />
+            <img width={500} height={400}  src={img6} alt="RPS" />
 
         </ImgContainer>
-        <Title>Join the  <br /> weirdos club  </Title>
+        <Title>Join the  <br /> RPS community </Title>
         <BtnContainer>
         <JoiNow>
             Join Now
